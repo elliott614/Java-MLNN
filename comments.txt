@@ -1,0 +1,18 @@
+Source files required: Regression.java, Pair.java
+Data Files Required: training data (mnist_train.csv?), testing data (test_1.csv and test_0.csv)
+Generates file: output.txt, weights.csv
+
+Digit 1 : 0
+Digit 2 : 1
+(based off student id: "emartinson")
+
+Run with arguments: (training data file path, test data 1 file path, test data 2 file path, digit 1, digit 2, learning rate, epsilon, maximum iterations)
+For example, use the following arguments (e.g. in run configurations if using eclipse, or on command line): ./mnist_train.csv ./test_1.csv ./test_0.csv 1 0 .01 .02 100
+^^used those arguments to generate output.txt
+
+I put the .csv files in the eclipse project folder (one step below the 'src' folder)
+
+I made Pair.java because last semester I got spoiled by the type systems languages such as Rust or Haskell and wanted a method to return a tuple of multiple generic types (i.e. pair when there are 2 members).
+It's pretty trivial code, but convenient. Apparently javafx has something like this, but I couldn't find anything similar in the java standard library.
+
+I also included a picture of the weights as weights.png, using a screen capture of what weights.csv looks like.

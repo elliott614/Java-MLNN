@@ -1,0 +1,473 @@
+Reading Training Data
+n = 12665
+Current iteration: 1
+cost = 674017.8337380069, epsilon = 674017.8337380069
+Current iteration: 2
+cost = 592300.0, epsilon = 81717.83373800688
+Current iteration: 3
+cost = 13520.509807527464, epsilon = 578779.4901924726
+Current iteration: 4
+cost = 12010.891291140197, epsilon = 1509.618516387267
+Current iteration: 5
+cost = 11011.769428781909, epsilon = 999.1218623582881
+Current iteration: 6
+cost = 10007.012127336315, epsilon = 1004.7573014455938
+Current iteration: 7
+cost = 9124.514321752795, epsilon = 882.49780558352
+Current iteration: 8
+cost = 8315.643717367959, epsilon = 808.870604384836
+Current iteration: 9
+cost = 8314.277029796895, epsilon = 1.3666875710641762
+Current iteration: 10
+cost = 8114.643894138821, epsilon = 199.63313565807312
+Current iteration: 11
+cost = 8008.154186444272, epsilon = 106.489707694549
+Current iteration: 12
+cost = 7704.94119840107, epsilon = 303.21298804320213
+Current iteration: 13
+cost = 7420.7209303997, epsilon = 284.22026800137064
+Current iteration: 14
+cost = 7130.281183527266, epsilon = 290.4397468724337
+Current iteration: 15
+cost = 6710.668803889215, epsilon = 419.6123796380507
+Current iteration: 16
+cost = 6604.357801665532, epsilon = 106.31100222368332
+Current iteration: 17
+cost = 6218.986183317983, epsilon = 385.371618347549
+Current iteration: 18
+cost = 5907.787923111252, epsilon = 311.198260206731
+Current iteration: 19
+cost = 5902.735629185711, epsilon = 5.052293925540653
+Current iteration: 20
+cost = 5800.582848067626, epsilon = 102.15278111808493
+Current iteration: 21
+cost = 5708.95162794089, epsilon = 91.63122012673648
+Current iteration: 22
+cost = 5416.283069769412, epsilon = 292.66855817147825
+Current iteration: 23
+cost = 5400.05524587683, epsilon = 16.22782389258191
+Current iteration: 24
+cost = 5400.000009209207, epsilon = 0.05523666762292123
+Current iteration: 25
+cost = 5302.594598481005, epsilon = 97.40541072820179
+Current iteration: 26
+cost = 5300.0000294288875, epsilon = 2.5945690521175493
+Current iteration: 27
+cost = 5205.10811097506, epsilon = 94.8919184538272
+Current iteration: 28
+cost = 4920.093702747084, epsilon = 285.0144082279767
+Current iteration: 29
+cost = 4703.733948558586, epsilon = 216.3597541884974
+Current iteration: 30
+cost = 4601.246821992078, epsilon = 102.48712656650787
+Current iteration: 31
+cost = 4600.001192315485, epsilon = 1.2456296765931256
+Current iteration: 32
+cost = 4413.273476491406, epsilon = 186.7277158240795
+Current iteration: 33
+cost = 4401.7442591677045, epsilon = 11.529217323701232
+Current iteration: 34
+cost = 4400.005835508773, epsilon = 1.7384236589314241
+Current iteration: 35
+cost = 4400.000042114262, epsilon = 0.00579339451087435
+Prediction 1 for digit 1 is Correct
+Prediction 2 for digit 1 is Correct
+Prediction 3 for digit 1 is Correct
+Prediction 4 for digit 1 is Correct
+Prediction 5 for digit 1 is Correct
+Prediction 6 for digit 1 is Correct
+Prediction 7 for digit 1 is Correct
+Prediction 8 for digit 1 is Correct
+Prediction 9 for digit 1 is Correct
+Prediction 10 for digit 1 is Correct
+Prediction 11 for digit 1 is Correct
+Prediction 12 for digit 1 is Correct
+Prediction 13 for digit 1 is Correct
+Prediction 14 for digit 1 is Correct
+Prediction 15 for digit 1 is Correct
+Prediction 16 for digit 1 is Correct
+Prediction 17 for digit 1 is Correct
+Prediction 18 for digit 1 is Correct
+Prediction 19 for digit 1 is Correct
+Prediction 20 for digit 1 is Correct
+Prediction 21 for digit 1 is Correct
+Prediction 22 for digit 1 is Correct
+Prediction 23 for digit 1 is Correct
+Prediction 24 for digit 1 is Correct
+Prediction 25 for digit 1 is Correct
+Prediction 26 for digit 1 is Correct
+Prediction 27 for digit 1 is Correct
+Prediction 28 for digit 1 is Correct
+Prediction 29 for digit 1 is Correct
+Prediction 30 for digit 1 is Correct
+Prediction 31 for digit 1 is Correct
+Prediction 32 for digit 1 is Correct
+Prediction 33 for digit 1 is Correct
+Prediction 34 for digit 1 is Correct
+Prediction 35 for digit 1 is Correct
+Prediction 36 for digit 1 is Correct
+Prediction 37 for digit 1 is Correct
+Prediction 38 for digit 1 is Correct
+Prediction 39 for digit 1 is Correct
+Prediction 40 for digit 1 is Correct
+Prediction 41 for digit 1 is Correct
+Prediction 42 for digit 1 is Correct
+Prediction 43 for digit 1 is Correct
+Prediction 44 for digit 1 is Correct
+Prediction 45 for digit 1 is Correct
+Prediction 46 for digit 1 is Correct
+Prediction 47 for digit 1 is Correct
+Prediction 48 for digit 1 is Correct
+Prediction 49 for digit 1 is Correct
+Prediction 50 for digit 1 is Correct
+Prediction 51 for digit 1 is Correct
+Prediction 52 for digit 1 is Correct
+Prediction 53 for digit 1 is Correct
+Prediction 54 for digit 1 is Correct
+Prediction 55 for digit 1 is Correct
+Prediction 56 for digit 1 is Correct
+Prediction 57 for digit 1 is Correct
+Prediction 58 for digit 1 is Correct
+Prediction 59 for digit 1 is Correct
+Prediction 60 for digit 1 is Correct
+Prediction 61 for digit 1 is Correct
+Prediction 62 for digit 1 is Correct
+Prediction 63 for digit 1 is Correct
+Prediction 64 for digit 1 is Correct
+Prediction 65 for digit 1 is Correct
+Prediction 66 for digit 1 is Correct
+Prediction 67 for digit 1 is Correct
+Prediction 68 for digit 1 is Correct
+Prediction 69 for digit 1 is Correct
+Prediction 70 for digit 1 is Correct
+Prediction 71 for digit 1 is Correct
+Prediction 72 for digit 1 is Correct
+Prediction 73 for digit 1 is Correct
+Prediction 74 for digit 1 is Correct
+Prediction 75 for digit 1 is Correct
+Prediction 76 for digit 1 is Correct
+Prediction 77 for digit 1 is Correct
+Prediction 78 for digit 1 is Correct
+Prediction 79 for digit 1 is Correct
+Prediction 80 for digit 1 is Correct
+Prediction 81 for digit 1 is Correct
+Prediction 82 for digit 1 is Correct
+Prediction 83 for digit 1 is Correct
+Prediction 84 for digit 1 is Correct
+Prediction 85 for digit 1 is Correct
+Prediction 86 for digit 1 is Correct
+Prediction 87 for digit 1 is Correct
+Prediction 88 for digit 1 is Correct
+Prediction 89 for digit 1 is Correct
+Prediction 90 for digit 1 is Correct
+Prediction 91 for digit 1 is Correct
+Prediction 92 for digit 1 is Correct
+Prediction 93 for digit 1 is Correct
+Prediction 94 for digit 1 is Correct
+Prediction 95 for digit 1 is Correct
+Prediction 96 for digit 1 is Correct
+Prediction 97 for digit 1 is Correct
+Prediction 98 for digit 1 is Correct
+Prediction 99 for digit 1 is Correct
+Prediction 100 for digit 1 is Correct
+Prediction 101 for digit 1 is Correct
+Prediction 102 for digit 1 is Correct
+Prediction 103 for digit 1 is Correct
+Prediction 104 for digit 1 is Correct
+Prediction 105 for digit 1 is Correct
+Prediction 106 for digit 1 is Correct
+Prediction 107 for digit 1 is Correct
+Prediction 108 for digit 1 is Correct
+Prediction 109 for digit 1 is Correct
+Prediction 110 for digit 1 is Correct
+Prediction 111 for digit 1 is Correct
+Prediction 112 for digit 1 is Correct
+Prediction 113 for digit 1 is Correct
+Prediction 114 for digit 1 is Correct
+Prediction 115 for digit 1 is Correct
+Prediction 116 for digit 1 is Correct
+Prediction 117 for digit 1 is Correct
+Prediction 118 for digit 1 is Correct
+Prediction 119 for digit 1 is Correct
+Prediction 120 for digit 1 is Correct
+Prediction 121 for digit 1 is Correct
+Prediction 122 for digit 1 is Correct
+Prediction 123 for digit 1 is Correct
+Prediction 124 for digit 1 is Correct
+Prediction 125 for digit 1 is Correct
+Prediction 126 for digit 1 is Correct
+Prediction 127 for digit 1 is Correct
+Prediction 128 for digit 1 is Correct
+Prediction 129 for digit 1 is Correct
+Prediction 130 for digit 1 is Correct
+Prediction 131 for digit 1 is Correct
+Prediction 132 for digit 1 is Correct
+Prediction 133 for digit 1 is Correct
+Prediction 134 for digit 1 is Correct
+Prediction 135 for digit 1 is Correct
+Prediction 136 for digit 1 is Correct
+Prediction 137 for digit 1 is Correct
+Prediction 138 for digit 1 is Correct
+Prediction 139 for digit 1 is Correct
+Prediction 140 for digit 1 is Correct
+Prediction 141 for digit 1 is Correct
+Prediction 142 for digit 1 is Correct
+Prediction 143 for digit 1 is Correct
+Prediction 144 for digit 1 is Correct
+Prediction 145 for digit 1 is Correct
+Prediction 146 for digit 1 is Correct
+Prediction 147 for digit 1 is Correct
+Prediction 148 for digit 1 is Correct
+Prediction 149 for digit 1 is Correct
+Prediction 150 for digit 1 is Correct
+Prediction 151 for digit 1 is Correct
+Prediction 152 for digit 1 is Correct
+Prediction 153 for digit 1 is Correct
+Prediction 154 for digit 1 is Correct
+Prediction 155 for digit 1 is Correct
+Prediction 156 for digit 1 is Correct
+Prediction 157 for digit 1 is Correct
+Prediction 158 for digit 1 is Correct
+Prediction 159 for digit 1 is Correct
+Prediction 160 for digit 1 is Correct
+Prediction 161 for digit 1 is Correct
+Prediction 162 for digit 1 is Correct
+Prediction 163 for digit 1 is Correct
+Prediction 164 for digit 1 is Correct
+Prediction 165 for digit 1 is Correct
+Prediction 166 for digit 1 is Correct
+Prediction 167 for digit 1 is Correct
+Prediction 168 for digit 1 is Correct
+Prediction 169 for digit 1 is Correct
+Prediction 170 for digit 1 is Correct
+Prediction 171 for digit 1 is Correct
+Prediction 172 for digit 1 is Correct
+Prediction 173 for digit 1 is Correct
+Prediction 174 for digit 1 is Correct
+Prediction 175 for digit 1 is Correct
+Prediction 176 for digit 1 is Correct
+Prediction 177 for digit 1 is Correct
+Prediction 178 for digit 1 is Correct
+Prediction 179 for digit 1 is Correct
+Prediction 180 for digit 1 is Correct
+Prediction 181 for digit 1 is Correct
+Prediction 182 for digit 1 is Correct
+Prediction 183 for digit 1 is Correct
+Prediction 184 for digit 1 is Correct
+Prediction 185 for digit 1 is Correct
+Prediction 186 for digit 1 is Correct
+Prediction 187 for digit 1 is Correct
+Prediction 188 for digit 1 is Correct
+Prediction 189 for digit 1 is Correct
+Prediction 190 for digit 1 is Correct
+Prediction 191 for digit 1 is Correct
+Prediction 192 for digit 1 is Correct
+Prediction 193 for digit 1 is Correct
+Prediction 194 for digit 1 is Correct
+Prediction 195 for digit 1 is Correct
+Prediction 196 for digit 1 is Correct
+Prediction 197 for digit 1 is Correct
+Prediction 198 for digit 1 is Correct
+Prediction 199 for digit 1 is Correct
+Prediction 200 for digit 1 is Correct
+Prediction 1 for digit 0 is Correct
+Prediction 2 for digit 0 is Correct
+Prediction 3 for digit 0 is Correct
+Prediction 4 for digit 0 is Correct
+Prediction 5 for digit 0 is Correct
+Prediction 6 for digit 0 is Correct
+Prediction 7 for digit 0 is Correct
+Prediction 8 for digit 0 is Correct
+Prediction 9 for digit 0 is Correct
+Prediction 10 for digit 0 is Correct
+Prediction 11 for digit 0 is Correct
+Prediction 12 for digit 0 is Correct
+Prediction 13 for digit 0 is Correct
+Prediction 14 for digit 0 is Correct
+Prediction 15 for digit 0 is Correct
+Prediction 16 for digit 0 is Correct
+Prediction 17 for digit 0 is Correct
+Prediction 18 for digit 0 is Correct
+Prediction 19 for digit 0 is Correct
+Prediction 20 for digit 0 is Correct
+Prediction 21 for digit 0 is Correct
+Prediction 22 for digit 0 is Correct
+Prediction 23 for digit 0 is Correct
+Prediction 24 for digit 0 is Correct
+Prediction 25 for digit 0 is Correct
+Prediction 26 for digit 0 is Correct
+Prediction 27 for digit 0 is Correct
+Prediction 28 for digit 0 is Correct
+Prediction 29 for digit 0 is Correct
+Prediction 30 for digit 0 is Correct
+Prediction 31 for digit 0 is Correct
+Prediction 32 for digit 0 is Correct
+Prediction 33 for digit 0 is Correct
+Prediction 34 for digit 0 is Correct
+Prediction 35 for digit 0 is Correct
+Prediction 36 for digit 0 is Correct
+Prediction 37 for digit 0 is Correct
+Prediction 38 for digit 0 is Correct
+Prediction 39 for digit 0 is Correct
+Prediction 40 for digit 0 is Correct
+Prediction 41 for digit 0 is Correct
+Prediction 42 for digit 0 is Correct
+Prediction 43 for digit 0 is Correct
+Prediction 44 for digit 0 is Correct
+Prediction 45 for digit 0 is Correct
+Prediction 46 for digit 0 is Correct
+Prediction 47 for digit 0 is Correct
+Prediction 48 for digit 0 is Correct
+Prediction 49 for digit 0 is Correct
+Prediction 50 for digit 0 is Correct
+Prediction 51 for digit 0 is Correct
+Prediction 52 for digit 0 is Correct
+Prediction 53 for digit 0 is Correct
+Prediction 54 for digit 0 is Correct
+Prediction 55 for digit 0 is Correct
+Prediction 56 for digit 0 is Correct
+Prediction 57 for digit 0 is Correct
+Prediction 58 for digit 0 is Correct
+Prediction 59 for digit 0 is Correct
+Prediction 60 for digit 0 is Correct
+Prediction 61 for digit 0 is Correct
+Prediction 62 for digit 0 is Correct
+Prediction 63 for digit 0 is Correct
+Prediction 64 for digit 0 is Correct
+Prediction 65 for digit 0 is Correct
+Prediction 66 for digit 0 is Correct
+Prediction 67 for digit 0 is Correct
+Prediction 68 for digit 0 is Correct
+Prediction 69 for digit 0 is Correct
+Prediction 70 for digit 0 is Correct
+Prediction 71 for digit 0 is Correct
+Prediction 72 for digit 0 is Correct
+Prediction 73 for digit 0 is Correct
+Prediction 74 for digit 0 is Correct
+Prediction 75 for digit 0 is Correct
+Prediction 76 for digit 0 is Correct
+Prediction 77 for digit 0 is Correct
+Prediction 78 for digit 0 is Correct
+Prediction 79 for digit 0 is Correct
+Prediction 80 for digit 0 is Correct
+Prediction 81 for digit 0 is Correct
+Prediction 82 for digit 0 is Correct
+Prediction 83 for digit 0 is Correct
+Prediction 84 for digit 0 is Correct
+Prediction 85 for digit 0 is Correct
+Prediction 86 for digit 0 is Correct
+Prediction 87 for digit 0 is Correct
+Prediction 88 for digit 0 is Correct
+Prediction 89 for digit 0 is Correct
+Prediction 90 for digit 0 is Correct
+Prediction 91 for digit 0 is Correct
+Prediction 92 for digit 0 is Correct
+Prediction 93 for digit 0 is Correct
+Prediction 94 for digit 0 is Correct
+Prediction 95 for digit 0 is Correct
+Prediction 96 for digit 0 is Correct
+Prediction 97 for digit 0 is Correct
+Prediction 98 for digit 0 is Correct
+Prediction 99 for digit 0 is Correct
+Prediction 100 for digit 0 is Correct
+Prediction 101 for digit 0 is Correct
+Prediction 102 for digit 0 is Correct
+Prediction 103 for digit 0 is Correct
+Prediction 104 for digit 0 is Correct
+Prediction 105 for digit 0 is Correct
+Prediction 106 for digit 0 is Correct
+Prediction 107 for digit 0 is Correct
+Prediction 108 for digit 0 is Correct
+Prediction 109 for digit 0 is Correct
+Prediction 110 for digit 0 is Correct
+Prediction 111 for digit 0 is Correct
+Prediction 112 for digit 0 is Correct
+Prediction 113 for digit 0 is Correct
+Prediction 114 for digit 0 is Correct
+Prediction 115 for digit 0 is Correct
+Prediction 116 for digit 0 is Correct
+Prediction 117 for digit 0 is Correct
+Prediction 118 for digit 0 is Correct
+Prediction 119 for digit 0 is Correct
+Prediction 120 for digit 0 is Correct
+Prediction 121 for digit 0 is Correct
+Prediction 122 for digit 0 is Correct
+Prediction 123 for digit 0 is Correct
+Prediction 124 for digit 0 is Correct
+Prediction 125 for digit 0 is Correct
+Prediction 126 for digit 0 is Correct
+Prediction 127 for digit 0 is Correct
+Prediction 128 for digit 0 is Correct
+Prediction 129 for digit 0 is Correct
+Prediction 130 for digit 0 is Correct
+Prediction 131 for digit 0 is Correct
+Prediction 132 for digit 0 is Correct
+Prediction 133 for digit 0 is Correct
+Prediction 134 for digit 0 is Correct
+Prediction 135 for digit 0 is Correct
+Prediction 136 for digit 0 is Correct
+Prediction 137 for digit 0 is Correct
+Prediction 138 for digit 0 is Correct
+Prediction 139 for digit 0 is Correct
+Prediction 140 for digit 0 is Correct
+Prediction 141 for digit 0 is Correct
+Prediction 142 for digit 0 is Correct
+Prediction 143 for digit 0 is Correct
+Prediction 144 for digit 0 is Correct
+Prediction 145 for digit 0 is Correct
+Prediction 146 for digit 0 is Correct
+Prediction 147 for digit 0 is Correct
+Prediction 148 for digit 0 is Correct
+Prediction 149 for digit 0 is Correct
+Prediction 150 for digit 0 is Correct
+Prediction 151 for digit 0 is Correct
+Prediction 152 for digit 0 is Correct
+Prediction 153 for digit 0 is Correct
+Prediction 154 for digit 0 is Correct
+Prediction 155 for digit 0 is Correct
+Prediction 156 for digit 0 is Correct
+Prediction 157 for digit 0 is Correct
+Prediction 158 for digit 0 is Correct
+Prediction 159 for digit 0 is Correct
+Prediction 160 for digit 0 is Correct
+Prediction 161 for digit 0 is Correct
+Prediction 162 for digit 0 is Correct
+Prediction 163 for digit 0 is Correct
+Prediction 164 for digit 0 is Correct
+Prediction 165 for digit 0 is Correct
+Prediction 166 for digit 0 is Correct
+Prediction 167 for digit 0 is Correct
+Prediction 168 for digit 0 is Correct
+Prediction 169 for digit 0 is Correct
+Prediction 170 for digit 0 is Correct
+Prediction 171 for digit 0 is Correct
+Prediction 172 for digit 0 is Correct
+Prediction 173 for digit 0 is Correct
+Prediction 174 for digit 0 is Correct
+Prediction 175 for digit 0 is Correct
+Prediction 176 for digit 0 is Correct
+Prediction 177 for digit 0 is Correct
+Prediction 178 for digit 0 is Correct
+Prediction 179 for digit 0 is Correct
+Prediction 180 for digit 0 is Correct
+Prediction 181 for digit 0 is Correct
+Prediction 182 for digit 0 is Correct
+Prediction 183 for digit 0 is Correct
+Prediction 184 for digit 0 is Correct
+Prediction 185 for digit 0 is Correct
+Prediction 186 for digit 0 is Correct
+Prediction 187 for digit 0 is Correct
+Prediction 188 for digit 0 is Correct
+Prediction 189 for digit 0 is Correct
+Prediction 190 for digit 0 is Correct
+Prediction 191 for digit 0 is Correct
+Prediction 192 for digit 0 is Correct
+Prediction 193 for digit 0 is Correct
+Prediction 194 for digit 0 is Correct
+Prediction 195 for digit 0 is Correct
+Prediction 196 for digit 0 is Correct
+Prediction 197 for digit 0 is Correct
+Prediction 198 for digit 0 is Correct
+Prediction 199 for digit 0 is Correct
+Prediction 200 for digit 0 is Correct
+Accuracy: 1.0
