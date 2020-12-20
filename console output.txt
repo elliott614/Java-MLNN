@@ -1,0 +1,64 @@
+reading training/testing data
+Done Reading
+initial cost: 81.36788200407271
+epoch number 1
+Shuffled training data
+........................................................................................................................................................................................................................................................................................................................................................................
+Current cost: 61.42049432718695
+Current epsilon: 19.94738767688576
+epoch number 2
+Shuffled training data
+........................................................................................................................................................................................................................................................................................................................................................................
+Current cost: 48.818574749647055
+Current epsilon: 12.601919577539896
+epoch number 3
+Shuffled training data
+........................................................................................................................................................................................................................................................................................................................................................................
+Current cost: 37.999295171257785
+Current epsilon: 10.81927957838927
+epoch number 4
+Shuffled training data
+........................................................................................................................................................................................................................................................................................................................................................................
+Current cost: 34.05910594558974
+Current epsilon: 3.9401892256680426
+Predicted Happy, was happy. a = 0.97610973245989
+Predicted Unhappy, wasn't happy. a = 0.013992876254968497
+Predicted Happy, was happy. a = 0.720052978931698
+Predicted Unhappy, wasn't happy. a = 0.04115180215467554
+Predicted Happy, was happy. a = 0.9617694073744849
+Predicted Unhappy, wasn't happy. a = 0.2794024948102957
+Predicted Happy, was happy. a = 0.8629120723502699
+Predicted Unhappy, wasn't happy. a = 0.01657223890322765
+Predicted Happy, was happy. a = 0.7951283555551151
+Predicted Unhappy, wasn't happy. a = 0.1630473233221187
+Predicted Happy, was happy. a = 0.9998275312498862
+Predicted Unhappy, wasn't happy. a = 0.20884261968787937
+Predicted Happy, was happy. a = 0.9991482489311826
+Predicted Unhappy, wasn't happy. a = 0.010258288075588819
+Prediced Unhappy, was happy. a = 0.17296439350941265
+Predicted Unhappy, wasn't happy. a = 0.005149328611079973
+Prediced Unhappy, was happy. a = 0.15106623418843573
+Predicted Unhappy, wasn't happy. a = 0.0014449236616586776
+Predicted Happy, was happy. a = 0.9998592780887864
+Predicted Unhappy, wasn't happy. a = 0.00876784146120688
+Predicted Happy, was happy. a = 0.9948733114979407
+Predicted Unhappy, wasn't happy. a = 0.0975452168961045
+Predicted Happy, was happy. a = 0.9676420490356445
+Predicted Unhappy, wasn't happy. a = 0.28667443471597276
+Predicted Happy, was happy. a = 0.978254919628198
+Predicted Unhappy, wasn't happy. a = 0.18620010900545475
+Predicted Happy, was happy. a = 0.7208018554335388
+Predicted Happy, wasn't happy. a = 0.8978322535315834
+Predicted Happy, was happy. a = 0.9967703972457242
+Predicted Unhappy, wasn't happy. a = 0.011845195188585943
+Predicted Happy, was happy. a = 0.9994376613928051
+Predicted Unhappy, wasn't happy. a = 0.01610336181953007
+Predicted Happy, was happy. a = 0.9268137536911256
+Predicted Unhappy, wasn't happy. a = 0.007229031112568046
+Predicted Happy, was happy. a = 0.9869430138240758
+Predicted Unhappy, wasn't happy. a = 0.051882933316935824
+Prediced Unhappy, was happy. a = 0.4444490090390389
+Predicted Unhappy, wasn't happy. a = 0.32431704525349325
+Predicted Happy, was happy. a = 0.9785182891634358
+Predicted Unhappy, wasn't happy. a = 0.008532632109701909
+36.0 of 40 correct. 0.9
